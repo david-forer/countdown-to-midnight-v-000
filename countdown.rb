@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown
-  while n > log10
+  while n > 0
     puts "#{n} SECOND(S)!"
     sleep 1 
     
