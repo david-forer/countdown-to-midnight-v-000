@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown
-  while
+  while n > log10
   
   
   end
